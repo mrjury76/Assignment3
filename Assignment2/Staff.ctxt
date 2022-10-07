@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Staff
+comment0.text=\ Name\:\ Patrick\ Thrower\r\n\ Student\ Number\:\ T00620480\r\n\ Assignment\ Number\:\ 2\r\n\ Due\ Date\:\ Tuesday\ October\ 4,\ 2022,\ 2\:30pm\r\n\ Program\ Description\:\ Introducing\ new\ child\ staff\ class\ with\ new\ data\r\n
+comment1.params=
+comment1.target=Staff()
+comment2.params=newName\ newId\ newJob
+comment2.target=Staff(java.lang.String,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ getJob()
+comment5.params=newJob
+comment5.target=void\ setJob(java.lang.String)
+numComments=6

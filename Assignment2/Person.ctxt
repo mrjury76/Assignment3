@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\ Name\:\ Patrick\ Thrower\r\n\ Student\ Number\:\ T00620480\r\n\ Assignment\ Number\:\ 2\r\n\ Due\ Date\:\ Tuesday\ October\ 4,\ 2022,\ 2\:30pm\r\n\ Program\ Description\:\ Parent\ class\ with\ new\ equals\ method\r\n
+comment1.params=
+comment1.target=Person()
+comment2.params=newName\ newId
+comment2.target=Person(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=int\ getId()
+comment7.params=newName
+comment7.target=void\ setName(java.lang.String)
+comment8.params=newId
+comment8.target=void\ setId(int)
+numComments=9

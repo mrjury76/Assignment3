@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\ Name\:\ Patrick\ Thrower\r\n\ Student\ Number\:\ T00620480\r\n\ Assignment\ Number\:\ 2\r\n\ Due\ Date\:\ Tuesday\ October\ 4,\ 2022,\ 2\:30pm\r\n\ Program\ Description\:\ Student\ child\ class\ with\ methods\ and\ data\r\n
+comment1.params=
+comment1.target=Student()
+comment2.params=newName\ newId\ newDegree\ newGpa
+comment2.target=Student(java.lang.String,\ int,\ java.lang.String,\ double)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ getDegree()
+comment5.params=
+comment5.target=double\ getGpa()
+comment6.params=newDegree
+comment6.target=void\ setDegree(java.lang.String)
+comment7.params=newGpa
+comment7.target=void\ setGpa(double)
+comment8.params=s
+comment8.target=int\ compareTo(Student)
+numComments=9

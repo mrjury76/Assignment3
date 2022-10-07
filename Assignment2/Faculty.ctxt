@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Faculty
+comment0.text=\ Name\:\ Patrick\ Thrower\r\n\ Student\ Number\:\ T00620480\r\n\ Assignment\ Number\:\ 2\r\n\ Due\ Date\:\ Tuesday\ October\ 4,\ 2022,\ 2\:30pm\r\n\ Program\ Description\:\ Faculty\ child\ class\ with\ methods\ and\ data\r\n
+comment1.params=
+comment1.target=Faculty()
+comment2.params=newName\ newId\ newDept\ newTitle
+comment2.target=Faculty(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ getDept()
+comment5.params=
+comment5.target=java.lang.String\ getTitle()
+comment6.params=newDept
+comment6.target=void\ setDept(java.lang.String)
+comment7.params=newTitle
+comment7.target=void\ setTitle(java.lang.String)
+numComments=8
